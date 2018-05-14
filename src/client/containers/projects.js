@@ -1,10 +1,10 @@
 import React, { Component } from 'react';
 
-export default class DatasetTools extends Component {
+export default class Projects extends Component {
   render() {
     return (
       <div>
-        dataset.tools project page
+        Project Portfolio
       </div>
     );
   }

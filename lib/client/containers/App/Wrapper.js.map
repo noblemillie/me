@@ -1,0 +1,1 @@
+{"version":3,"sources":["../../../../src/client/containers/App/Wrapper.js"],"names":[],"mappings":";;;;;;AAAA;;;;;;AAEA,MAAM,UAAU,2BAAO,GAAI;;CAA3B;;kBAIe,O","file":"Wrapper.js","sourcesContent":["import styled from 'styled-components';\n\nconst Wrapper = styled.div`\nheight: 100%;\n`;\n\nexport default Wrapper;\n"]}
