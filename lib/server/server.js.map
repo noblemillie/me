@@ -1,1 +1,0 @@
-{"version":3,"sources":["../../src/server/server.js"],"names":[],"mappings":";;AAAA;;;;;;AAEA,iBAAI,MAAJ,CAAW,QAAQ,GAAR,CAAY,IAAZ,IAAoB,IAA/B","file":"server.js","sourcesContent":["import app from '../server';\n\napp.listen(process.env.PORT || 3000);\n"]}
