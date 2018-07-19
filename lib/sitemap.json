@@ -1,0 +1,124 @@
+{
+ "name": "Sitemap",
+
+ "children": [
+
+   {"name": "About",
+      "children": [
+        {"name": "This Site"},
+        {"name": "This Guy",
+          "children": [
+            {"name": "the road taken",
+              "children": [
+                {"name": "a passenger called Self"},
+                {"name": "a universal language no one likes"},
+                {"name": "a journey through professional service"},
+                {"name": "a path discouraged"},
+                {"name": "an empirical skillset"}
+              ]
+            },
+            {"name": "the path ahead"}
+          ]
+        }
+     ],
+     "content": "Do you, I'm a do me."
+   },
+
+  {"name": "Mission",
+     "children": [
+      {"name": "Overview" },
+      {"name": "First Principles",
+         "children": [
+           {"name": "Book of Human Language"},
+           {"name": "Abstraction as a Second Language"}
+         ]
+      },
+      {"name": "Blogs"}
+    ]
+  },
+
+  {"name": "Context Concepts",
+   "children": [
+    {"name": "Conventions"},
+    {"name": "Concept Graph",
+     "children": [
+        {"name": "Overview"},
+        {"name": "Collaborative Economics"},
+        {"name": "Behavioral Economics"},
+        {"name": "Interest Alignment"},
+        {"name": "Network Effects"},
+        {"name": "Soap Boxin"}
+      ]
+    },
+    {"content": "Associative activation people."}
+    ]
+  },
+
+  {"name": "Projects",
+   "children": [
+    {"name": "KnowRelation"},
+    {"name": "The Known Project"},
+    {"name": "inanimatedObjects",
+     "children": [
+      {"name": "Perkolator"},
+      {"name": "OpenCollabo"},
+      {"name": "Tree of infinite sectors"}
+     ]
+    },
+    {"name": "dataset.tools",
+      "children": [
+        {"name": "web app"},
+       {"name": "desktop app"},
+       {"name": "chrome extension"}
+      ]
+    },
+    {"name": "open source"}
+  ],
+  "content": "coming up in the projects"
+  },
+
+  {"name": "Web Presence",
+   "children": [
+     {"name": "portfolio"},
+     {"name": "medium",
+       "children": [
+         {"name": "inanimatedObjects"},
+         {"name": "knowRelation"},
+         {"name": "nthAttempt"},
+         {"name": "nobleTheories"},
+         {"name": "gitInvolved"}
+       ]
+     },
+     {"name": "twitter",
+       "children": [
+         {"name": "@inanimatedObjects"},
+         {"name": "@knowRelation"},
+         {"name": "@nthAttempt"},
+         {"name": "@nobleTheories"},
+         {"name": "@git_involved"},
+         {"name": "@noble_Graph"},
+         {"name": "@nobleTalk"},
+         {"name": "@noblemillie"}
+       ]
+     },
+     {"name": "github"},
+    {"name": "linkedin"},
+    {"name": "facebook"},
+    {"name": "email"}
+  ],
+  "content": "create, contribute, connect"
+  },
+
+  {"name": "Resources",
+    "children": [
+      {"name": "blogs"},
+      {"name": "podcasts"},
+      {"name": "slack communities"},
+      {"name": "people"},
+      {"name": "tools"},
+      {"name": "reference docs"},
+      {"name": "inspirations"}
+    ]
+  }
+]
+}
