@@ -43,12 +43,12 @@ h6 {
 }
 
 .bg-dark {
-  background-image: url("../img/networks.jpg");
+  /* background-image: url("../img/networks.jpg"); */
   /* background-color: #212529 !important; */
 }
 
 .text-faded {
-  color: rgba(255, 255, 255, 0.7);
+  color: darkred;
 }
 
 section {
@@ -68,7 +68,7 @@ section {
 ::selection {
   color: #fff;
   /* background-image: url("../img/networks.jpg"); */
-  background-image: url("../img/networks.jpg");
+  /* background-image: url("../img/networks.jpg"); */
   text-shadow: none;
 }
 
@@ -172,7 +172,7 @@ img::-moz-selection {
 header.masthead {
   padding-top: 10rem;
   padding-bottom: calc(10rem - 56px);
-  /* background-image: url("../img/underwater.jpg"); */
+  background-image: url("../img/nobleExperiment_bw.jpg");
   background-position: center center;
   -webkit-background-size: cover;
   -moz-background-size: cover;
