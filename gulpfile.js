@@ -8,7 +8,7 @@ var pkg = require('./package.json');
 var browserSync = require('browser-sync').create();
 
 // Set the banner content
-var banner = 'CamMalloy';
+var banner = 'NobleMillie';
 
 // Copy third party libraries from /node_modules into /vendor
 gulp.task('vendor', function() {
